@@ -39,7 +39,7 @@ p {
   width: 65%;
 }
             
-footer>a {
+footer a {
   border-bottom: 1px dotted rgb(28,148,198);
   color: rgb(28,148,198);
   text-decoration: none;
