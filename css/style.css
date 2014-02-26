@@ -61,6 +61,5 @@ footer {
   text-align: center;
 }
 
-.icon { transition: all 0.5s ease; }
-
-.twitter:hover { color rgb(28,148,298); transition: all 0.5s ease; }
+.twitter-icon { color: rgb(28,148,198); transition: all 0.5s ease; }
+.twitter-icon:hover { color rgb(28,148,298); transition: all 0.5s ease; }
