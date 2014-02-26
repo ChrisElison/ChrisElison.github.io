@@ -33,6 +33,7 @@ p {
 .blurb {
   color: rgb(120,120,120);
   font-weight: 300;
+  line-height: 36px;
   margin: 2em auto 2em auto;
   text-align: center; 
   width: 85%;
