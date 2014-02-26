@@ -58,4 +58,9 @@ footer {
 
 .social-links {
   margin-bottom: 1em;
+  text-align: center;
+}
+
+.twitter-button {
+  color: rgb(28,148,198);
 }
