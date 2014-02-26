@@ -18,7 +18,6 @@ body {
 h1 {
   color: rgb(80,80,200);
   font-family: "Bitter", serif;
-  font-size: 2.25rem;
   font-weight: 700; 
   text-align: center;
 }
@@ -34,7 +33,7 @@ p {
 .blurb {
   color: rgb(80,80,80);
   font-weight: 300;
-  font-size: 1.25rem;
+  font-size: 1.35rem;
   line-height: 1.85rem;
   margin: 2em auto 1em auto;
   text-align: justify;
