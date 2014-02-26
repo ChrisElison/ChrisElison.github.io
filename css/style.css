@@ -15,7 +15,11 @@ body {
   text-rendering: optimizeLegibility;
 }
 
-h1, h2, h3 { font-weight: 700; text-align: center; }
+h1, h2, h3 {
+  font-family: "Bitter", serif;
+  font-weight: 700; 
+  text-align: center;
+}
 
 p {
   font-feature-settings: "kern";
@@ -29,7 +33,7 @@ p {
   color: rgb(120,120,120);
   font-weight: 300;
   font-style: italic;
-  margin: 2em auto 5em auto;
+  margin: 2em auto 2em auto;
   text-align: center; 
   width: 85%;
 }
@@ -41,7 +45,6 @@ a {
 }
 
 footer {
-  font-family: "Source Sans Pro", sans-serif;
   text-align: center;
 }
 
