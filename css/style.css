@@ -7,15 +7,24 @@
 body {
   background-color: #fff;
   color: rgb(80,80,80);
-  font-family: "Source Sans Pro", "Arial", sans-serif;
+  font-family: "Lora", serif;
   margin: 0;
   margin-top: 2em;
   text-rendering: optimizeLegibility;
   text-align: center;
 }
 
+p {
+  font-weight: 400;
+  font-feature-settings: "kern";
+  -webkit-font-feature-settings: "kern";
+  -moz-font-feature-settings: "kern";
+  -moz-font-feature-settings: "kern=1";
+}
+            
 a {
-  color: rgb(100,100,230);
+  border-bottom: 1px dotted rgb(28,148,198);
+  color: rgb(28,148,198);
   text-decoration: none;
 }
 
