@@ -11,12 +11,11 @@ body {
   margin: 0;
   margin-top: 2em;
   text-rendering: optimizeLegibility;
-  text-align: center;
 }
 
 p {
   color: rgb(120,120,120);
-  font-weight: 400;
+  font-weight: 300;
   font-style: italic;
   font-feature-settings: "kern";
   -webkit-font-feature-settings: "kern";
@@ -24,6 +23,7 @@ p {
   -moz-font-feature-settings: "kern=1";
   width: 65%;
   margin: auto;
+  text-align: center;
 }
             
 a {
@@ -41,4 +41,5 @@ small {
   margin: 0 auto;
   max-width: 960px;
   width: 90%;
+  text-align: center;
 }
