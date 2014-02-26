@@ -16,10 +16,12 @@ body {
 
 p {
   font-weight: 400;
+  font-style: italic;
   font-feature-settings: "kern";
   -webkit-font-feature-settings: "kern";
   -moz-font-feature-settings: "kern";
   -moz-font-feature-settings: "kern=1";
+  width: 65%;
 }
             
 a {
@@ -29,7 +31,7 @@ a {
 }
 
 small {
-  font-variant: small-caps;
+  font-family: "Source Sans Pro", sans-serif;
 }
 
 .container {
