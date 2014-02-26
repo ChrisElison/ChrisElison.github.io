@@ -37,8 +37,9 @@ a {
   text-decoration: none;
 }
 
-small {
+footer {
   font-family: "Source Sans Pro", sans-serif;
+  text-align: center;
 }
 
 .container {
