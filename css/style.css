@@ -8,7 +8,7 @@
 
 body {
   background-color: #fff;
-  color: rgb(80,80,80);
+  color: rgb(48,48,48);
   font-family: "Droid Serif", serif;
   margin: 0;
   margin-top: 2.75em;
@@ -16,7 +16,6 @@ body {
 }
 
 h1 {
-  color: rgb(80,80,220);
   font-family: "Bitter", serif;
   font-weight: 700; 
   text-align: center;
@@ -31,7 +30,7 @@ p {
 }
 
 .blurb {
-  color: rgb(49,49,49);
+  color: rgb(51,51,51);
   font-weight: 300;
   font-size: 1.35rem;
   line-height: 1.85rem;
