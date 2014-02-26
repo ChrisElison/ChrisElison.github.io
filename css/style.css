@@ -21,8 +21,10 @@ p {
   -webkit-font-feature-settings: "kern";
   -moz-font-feature-settings: "kern";
   -moz-font-feature-settings: "kern=1";
-  text-align: center;
-  width: 85%;
+  margin: auto; 
+  margin-top: 2em; 
+  text-align: center; 
+  width: 95%;
 }
             
 a {
