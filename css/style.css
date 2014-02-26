@@ -13,7 +13,7 @@ body {
   text-rendering: optimizeLegibility;
 }
 
-h1, h2, h3 { font-weight: 400; text-align: center; }
+h1, h2, h3 { font-weight: 700; text-align: center; }
 
 p {
   color: rgb(120,120,120);
@@ -26,7 +26,7 @@ p {
   margin: auto; 
   margin-top: 2em; 
   text-align: center; 
-  width: 95%;
+  width: 65%;
 }
             
 a {
