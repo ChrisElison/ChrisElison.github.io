@@ -18,16 +18,20 @@ body {
 h1, h2, h3 { font-weight: 700; text-align: center; }
 
 p {
-  color: rgb(120,120,120);
-  font-weight: 300;
-  font-style: italic;
   font-feature-settings: "kern";
   -webkit-font-feature-settings: "kern";
   -moz-font-feature-settings: "kern";
   -moz-font-feature-settings: "kern=1";
+  
+}
+
+.blurb {
+  color: rgb(120,120,120);
+  font-weight: 300;
+  font-style: italic;
   margin: 2em auto 5em auto;
   text-align: center; 
-  width: 65%;
+  width: 85%;
 }
             
 a {
