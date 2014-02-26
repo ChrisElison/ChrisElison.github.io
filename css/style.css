@@ -63,3 +63,9 @@ footer {
 
 .twitter-icon { color: rgb(28,148,198); transition: all 0.5s ease; }
 .twitter-icon:hover { color: rgb(28,148,298); transition: all 0.5s ease; }
+
+.github-icon { color: rgb(198,148,28); transition: all 0.5s ease; }
+.github-icon:hover { color: rgb(298,148,28); transition: all 0.5s ease; }
+
+.flickr-icon { color: rgb(51,51,51); transition: all 0.5s ease; }
+.flickr-icon:hover { color: rgb(51,51,51); transition: all 0.5s ease; }
