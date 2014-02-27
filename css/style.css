@@ -16,7 +16,6 @@ body {
 }
 
 h1 {
-  font-family: "Lora", serif;
   font-weight: 700; 
   text-align: center;
 }
@@ -30,14 +29,14 @@ p {
 }
 
 .blurb {
-  color: rgb(150,150,150);
+  color: rgb(75,75,75);
   font-weight: 300;
   font-size: 1.75rem;
   font-style: italic;
   line-height: 2.65rem;
   margin: 2em auto 1em auto;
   text-align: left;
-  width: 65%;
+  width: 70%;
 }
             
 footer a {
