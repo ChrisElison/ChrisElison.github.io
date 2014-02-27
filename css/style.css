@@ -38,6 +38,8 @@ p {
   text-align: left;
   width: 55%;
 }
+
+.blurb + .blurb { margin-top: 1em; }
             
 footer a {
   border-bottom: 1px dotted rgb(28,148,198);
