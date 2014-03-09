@@ -41,13 +41,13 @@ p {
 
 .blurb + .blurb { margin-top: 1em; }
             
-footer a {
+footer p a {
   border-bottom: 1px dotted rgb(28,148,198);
   color: rgb(28,148,198);
   text-decoration: none;
 }
 
-a img {
+a {
   border: none;
 }
 
