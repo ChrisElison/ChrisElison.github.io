@@ -36,7 +36,8 @@ p {
   line-height: 40px;
   margin: 2em auto 1em auto;
   text-align: left;
-  width: 55%;
+  width: auto;
+  max-width: 55em;
 }
 
 .blurb + .blurb { margin-top: 1em; }
