@@ -47,6 +47,10 @@ footer a {
   text-decoration: none;
 }
 
+footer img {
+  border: none;
+}
+
 footer {
   text-align: center;
   margin-left: auto;
